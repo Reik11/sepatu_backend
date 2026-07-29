@@ -25,7 +25,7 @@ Repositori ini berisi backend berbasis **Laravel 11** yang bertindak sebagai pus
 
 1.  **Clone Repositori & Masuk Ke Direktori:**
     ```bash
-    git clone https://github.com/USERNAME/sepatu_backend.git
+    git clone https://github.com/Reik11/sepatu_backend.git
     cd Resource_Backend
     ```
 
